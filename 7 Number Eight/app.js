@@ -1,0 +1,12 @@
+var num1 = 5;
+var num2 = 3;
+console.log(num1 + num2);
+var num3 = 11;
+var num4 = 3;
+console.log(num3 - num4);
+var num5 = 4;
+var num6 = 2;
+console.log(num5 * num6);
+var num7 = 16;
+var num8 = 2;
+console.log(num7 / num8);
